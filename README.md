@@ -1,2 +1,2 @@
 # PicGo
-pictures for blog
+pictures for Markdown
